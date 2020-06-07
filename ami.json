@@ -1,7 +1,7 @@
 {
   "variables": {
     "ami_version": "2020-05-18",
-    "vault_version": "1.4.1",
+    "vault_version": "1.4.2",
     "vault_installer_version": "master",
     "acme_installer_version": "master"
   },
